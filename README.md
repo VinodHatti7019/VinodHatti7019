@@ -1,11 +1,9 @@
-<!-- Modern GitHub Profile -->
-
 <h1 align="center">👋 Hey there, I'm Vinod Hatti</h1>
-<h3 align="center">🚀 Welcome to my GitHub!</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | AI-Powered Web Apps Enthusiast | Cloud & DevOps Learner</h3>
 
 <p align="center">
-  I'm a final-year <b>Information Science and Engineering</b> student at <b>MVJ College of Engineering, Bengaluru</b> 🎓.  
-  Passionate about <b>Full-Stack Development, Data Science, and AI-driven solutions</b> 💡.
+  I'm a final-year <b>Information Science & Engineering</b> student at <b>MVJ College of Engineering, Bengaluru</b> 🎓.
+  Passionate about <b>MERN Stack, AI-powered applications, and cloud technologies</b> 🌍.
 </p>
 
 ---
@@ -22,42 +20,59 @@
 
 ---
 
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
-
----
-
 ### 🧠 What I'm Learning  
-- 📚 **Exploring** Machine Learning & AI  
-- 💡 Strengthening skills in **Python, JavaScript, React.js, Node.js, Express.js, Django, Flask**  
-- 🖥️ **Data Structures & Algorithms (DSA)** for problem-solving  
-- ☁️ Cloud computing with **Google Cloud & AWS**  
+- 🚀 **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js  
+- 🤖 **AI-Powered Web Apps:** Python, Flask, OpenAI API, Hugging Face  
+- ☁️ **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes  
+- ⚡ **Backend Engineering & APIs:** REST APIs, Authentication (JWT/OAuth), Microservices  
+- 🖥️ **Frontend & UI/UX:** Tailwind CSS, Bootstrap, GSAP, Framer Motion, Figma  
 
 ---
 
-### 💻 Projects I've Worked On  
-🚀 **Campus Placement Analysis** – Predicts placement trends & salary ranges using ML  
-🤖 **AI Chatbot** – NLP-based chatbot with 85% intent recognition accuracy  
-🗣️ **Python Voice Assistant** – Real-time speech-to-text assistant with 90% accuracy  
-🚘 **Real-time ALPR System** – License Plate Recognition using Jetson Nano & Deep Learning  
-🍔 **Food Delivery Web App** – Full-stack web app with React.js, Node.js & MongoDB  
+### 💻 Featured Projects  
+#### 🚀 Campus Placement Analysis (ML & Data Visualization)  
+🔹 **Tech Stack:** Python, Flask, Scikit-learn, Tailwind CSS, HTML5  
+🔹 Built an ML model with **85% accuracy** to predict student placement trends.  
+🔹 Designed an **interactive dashboard** that reduces manual tracking by **70%**.  
+
+#### 🍔 AI-Powered Smart Travel Companion – "TravelMate AI"  
+🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, Google Maps API  
+🔹 AI-driven **travel assistant** suggesting optimal routes & nearby attractions.  
+🔹 Integrated Google Maps & OpenAI for **real-time recommendations**.  
+
+#### 💰 AI-Powered Finance & Budget Optimization – "FinanceFlow AI"  
+🔹 **Tech Stack:** React.js, Python, Flask, PostgreSQL, OpenAI API  
+🔹 Automates **budget tracking** with AI-powered financial insights.  
+🔹 Integrated **bank API** for real-time expense tracking & smart savings suggestions.  
 
 ---
 
 ### 💻 Tech Stack  
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,nodejs,nextjs,react,angular,django,mysql,mongodb,sqlite,figma,blender,heroku,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,nextjs,django,flask,aws,gcp,docker,kubernetes,git,github,figma" />
 </div>
 
 ---
 
-### 🌟 What I'm Passionate About  
-✅ Building **AI-driven applications** for real-world problems  
-✅ Developing **innovative solutions** in **Data Science & Full Stack Development**  
-✅ Exploring **Cloud Computing & DevOps** 🚀  
+### 💼 Work & Internship Experience  
+#### 🔹 Full-Stack Web Development Intern – Slash Mark IT Solution (Nov 2024 – Jan 2025)  
+✅ Developed & deployed a **MERN-based food delivery app** with authentication.  
+✅ Integrated **real-time order tracking**, reducing API load time by **40%**.  
+
+#### 🔹 Customer Support Associate – Tech Mahindra (BPS-KOL) (July 2022 – Nov 2022)  
+✅ Handled **100+ daily queries** during Flipkart's Big Billion Days, improving customer experience.  
+
+#### 🔹 Invoice/Billing Executive & Team Lead – CaratLane (March 2021 – June 2022)  
+✅ Led a team in invoice processing, improving billing accuracy by **20%** using automation tools.  
+
+---
+
+### 🌟 Why Connect with Me?  
+✅ Strong **Data Structures & Algorithms (DSA)** skills (LeetCode, CodeChef, HackerRank)  
+✅ Hands-on experience in **AI-driven applications & cloud deployments**  
+✅ Passionate about **learning, adapting, and building impactful tech solutions**  
+
+🚀 **Actively Looking for:** Internships | Full-Time SDE | AI-Integrated Full-Stack Roles  
 
 ---
 
