@@ -28,21 +28,27 @@
 
 ---
 
-### 💻 Featured Projects  
-#### 🚀 Campus Placement Analysis (ML & Data Visualization)  
+## 💻 Featured Projects  
+
+### 🚀 Campus Placement Analysis (ML & Data Visualization)  
 🔹 **Tech Stack:** Python, Flask, Scikit-learn, Tailwind CSS, HTML5  
 🔹 Built an ML model with **85% accuracy** to predict student placement trends.  
 🔹 Designed an **interactive dashboard** that reduces manual tracking by **70%**.  
 
-#### 🍔 AI-Powered Smart Travel Companion – "TravelMate AI"  
+### 🌐 AI-Powered Job Posting & Recommendation Platform  
+🔹 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, OpenAI API  
+🔹 Developed a **custom job portal** for seamless job postings & AI-driven recommendations.  
+🔹 Integrated AI to analyze job descriptions and enhance **smart job matching**.  
+
+### ✈️ AI-Powered Smart Travel Companion – "TravelMate AI"  
 🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, Google Maps API  
 🔹 AI-driven **travel assistant** suggesting optimal routes & nearby attractions.  
-🔹 Integrated Google Maps & OpenAI for **real-time recommendations**.  
+🔹 Integrated Google Maps & OpenAI for **real-time recommendations** & itinerary planning.  
 
-#### 💰 AI-Powered Finance & Budget Optimization – "FinanceFlow AI"  
-🔹 **Tech Stack:** React.js, Python, Flask, PostgreSQL, OpenAI API  
-🔹 Automates **budget tracking** with AI-powered financial insights.  
-🔹 Integrated **bank API** for real-time expense tracking & smart savings suggestions.  
+### 🛡️ AI-Powered Women’s Safety Companion – "ShTree"  
+🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, Google Maps API, Twilio API  
+🔹 AI-powered **emergency assistance** with voice & text-based SOS activation.  
+🔹 **Safe route suggestions** using AI-driven crime data analysis & real-time alerts. 
 
 ---
 
