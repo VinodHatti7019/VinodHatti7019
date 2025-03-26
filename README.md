@@ -46,9 +46,8 @@
 🔹 Integrated Google Maps & OpenAI for **real-time recommendations** & itinerary planning.  
 
 ### 💬 AI-Powered Social Messaging Platform – "Dostha"
-🔹 **Tech Stack:** Next.js (SEO-friendly frontend), Node.js, Express.js, MongoDB, Cloudinary, OpenAI API, Google Maps API, Tailwind CSS 
-🔹 Developed a **modern AI-powered social media app** for real-time messaging & engagement. 
-🔹 **Integrated AI-driven content** recommendations & location-based trends for better user interaction.
+🔹 **Tech Stack:** Next.js (SEO-friendly frontend), Node.js, Express.js, MongoDB, Cloudinary, OpenAI API, Google Maps API, Tailwind CSS   
+🔹 Developed a **modern AI-powered social media app** for real-time messaging & engagement and Integrated AI-driven content recommendations & location-based trends for better user interaction.  
 
 ---
 
