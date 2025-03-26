@@ -45,10 +45,10 @@
 🔹 AI-driven **travel assistant** suggesting optimal routes & nearby attractions.  
 🔹 Integrated Google Maps & OpenAI for **real-time recommendations** & itinerary planning.  
 
-### 🛡️ AI-Powered Women’s Safety Companion – "ShTree"  
-🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, Google Maps API, Twilio API  
-🔹 AI-powered **emergency assistance** with voice & text-based SOS activation.  
-🔹 **Safe route suggestions** using AI-driven crime data analysis & real-time alerts. 
+### 💬 AI-Powered Social Messaging Platform – "Dostha"
+🔹 **Tech Stack:** Next.js (SEO-friendly frontend), Node.js, Express.js, MongoDB, Cloudinary, OpenAI API, Google Maps API, Tailwind CSS 
+🔹 Developed a **modern AI-powered social media app** for real-time messaging & engagement. 
+🔹 **Integrated AI-driven content** recommendations & location-based trends for better user interaction.
 
 ---
 
