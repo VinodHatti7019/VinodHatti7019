@@ -1,83 +1,77 @@
-<h1 align="center">👋 Hey there, I'm Vinod Hatti</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | AI-Powered Web Apps Enthusiast | Cloud & DevOps Learner</h3>
+<h1 align="center">🎨 Hey there, I'm Vinod Hatti</h1>
+<h3 align="center">✨ Product Designer | UI/UX Specialist | AI-Driven Design Enthusiast</h3>
 
 <p align="center">
-  I'm a final-year <b>Information Science & Engineering</b> student at <b>MVJ College of Engineering, Bengaluru</b> 🎓.
-  Passionate about <b>MERN Stack, AI-powered applications, and cloud technologies</b> 🌍.
+  I'm a passionate <b>Product Designer</b> and <b>UI/UX Creator</b> from Bengaluru, India, currently pursuing final-year <b>Information Science & Engineering</b> at <b>MVJ College of Engineering</b> 🎓.  
+  I design modern, intuitive interfaces and love blending creativity with AI-powered workflows to build beautiful and functional digital experiences 💡.
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 🎨 What I Do  
+- 💻 **UI/UX Design:** Web & Mobile Interface Design, Wireframing, Prototyping  
+- ✨ **Product Thinking:** Design Systems, User Journeys, Accessibility  
+- ⚡ **Design Tools:** Figma, Framer, Illustrator, Photoshop, Pen & Paper  
+- 🤖 **AI in Design:** Prompt Engineering, Generative UI, AI-assisted workflows  
+- 📱 **Modern Web Aesthetics:** Landing Pages, SaaS Dashboards, Animations  
+- 🌐 **Design + Dev Handoff:** Working with dev teams, exporting design specs, micro-interactions
+
+---
+
+### 🧠 Learning & Building  
+- 🔥 **Mastering Framer, Figma Plugins, & AI Prompt Crafting**  
+- 🌟 **Designing for Developers** (BonniUi - Templates & UI Kits)  
+- 🚀 **Launching My Own Products**: BonniUi, Clyap, Hai  
+- 🎥 **Creating UI/UX Content in Kannada on YouTube**
+
+---
+
+## 💼 Experience  
+
+### 💻 Product Designer – BonniUi (2025–Present)  
+🎯 Designing modern templates, SaaS UIs, and animation-rich components for developers  
+🎯 Building India's first AI-powered UI generation platform  
+
+### 🛫 UI/UX Designer – Clyap (2025–Present)  
+🛎️ Designed a complete event booking experience from wireframes to UI animations  
+🛎️ Created responsive mobile and web views with seamless transitions  
+
+### 🧠 UI/UX Workshop – MVJ College of Engineering  
+✅ Led design sprints & showcased modern design tools like Figma & Framer  
+✅ Conducted demo sessions on prototyping & component libraries  
+
+---
+
+## 🔥 Featured Projects  
+
+### 🖼️ BonniUi – AI UI Generator  
+🎯 AI-powered platform to generate frontend templates, components & modern UI kits  
+🛠️ Figma + AI prompts + Framer animations  
+
+### 🧠 Clyap – Smart Event Booking App  
+🚀 UI/UX design of an Indian-first, fast and modern event vendor's booking platform  
+🎨 Designed with minimal flows, animations, and accessibility in mind  
+
+### 📱 Hai – Next-Gen Social Experience  
+💬 Social + Creative app mockups with focus on motion UI and real-time interaction design  
+
+---
+
+### 🧰 Design Stack  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodHatti7019&show_icons=true&theme=radical" alt="GitHub Stats" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodHatti7019&layout=compact&theme=radical" alt="Top Languages" width="32%"/>
-  <img src="https://leetcard.jacoblin.cool/VinodHatti7019?theme=dark&font=Roboto" alt="LeetCode Stats" width="32%"/>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,html,css,tailwind,github,sketch" />
 </p>
 
-
-
 ---
 
-### 🧠 What I'm Learning  
-- 🚀 **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js  
-- 🤖 **AI-Powered Web Apps:** Python, Flask, OpenAI API, Hugging Face  
-- ☁️ **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes  
-- ⚡ **Backend Engineering & APIs:** REST APIs, Authentication (JWT/OAuth), Microservices  
-- 🖥️ **Frontend & UI/UX:** Tailwind CSS, Bootstrap, GSAP, Framer Motion, Figma  
+### 💫 Why Work With Me?  
+✅ Clear product thinking + beautiful UI  
+✅ Strong understanding of dev workflows  
+✅ Passionate about user-centric design  
+✅ Always learning, creating, and shipping
 
----
-
-## 💻 Featured Projects  
-
-### 🚀 Campus Placement Analysis (ML & Data Visualization)  
-🔹 **Tech Stack:** Python, Flask, Scikit-learn, Tailwind CSS, HTML5  
-🔹 Built an ML model with **85% accuracy** to predict student placement trends.  
-🔹 Designed an **interactive dashboard** that reduces manual tracking by **70%**.  
-
-### 🌐 AI-Powered Job Posting & Recommendation Platform  
-🔹 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, OpenAI API  
-🔹 Developed a **custom job portal** for seamless job postings & AI-driven recommendations.  
-🔹 Integrated AI to analyze job descriptions and enhance **smart job matching**.  
-
-### ✈️ AI-Powered Smart Travel Companion – "TravelMate AI"  
-🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API, Google Maps API  
-🔹 AI-driven **travel assistant** suggesting optimal routes & nearby attractions.  
-🔹 Integrated Google Maps & OpenAI for **real-time recommendations** & itinerary planning.  
-
-### 💬 AI-Powered Social Messaging Platform – "Dostha"
-🔹 **Tech Stack:** Next.js (SEO-friendly frontend), Node.js, Express.js, MongoDB, Cloudinary, OpenAI API, Google Maps API, Tailwind CSS   
-🔹 Developed a **modern AI-powered social media app** for real-time messaging & engagement and Integrated AI-driven content recommendations & location-based trends for better user interaction.  
-
----
-
-### 💻 Tech Stack  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,django,flask,postgres,mysql,redis,aws,gcp,docker,kubernetes,git,github,figma,postman,vercel,netlify,selenium,pytest,mocha" />
-</div>
-
----
-
-### 💼 Work & Internship Experience  
-#### 🔹 Full-Stack Web Development Intern – Slash Mark IT Solution (Nov 2024 – Jan 2025)  
-✅ Developed & deployed a **MERN-based food delivery app** with authentication.  
-✅ Integrated **real-time order tracking**, reducing API load time by **40%**.  
-
-#### 🔹 Customer Support Associate – Tech Mahindra (BPS-KOL) (July 2022 – Nov 2022)  
-✅ Handled **100+ daily queries** during Flipkart's Big Billion Days, improving customer experience.  
-
-#### 🔹 Invoice/Billing Executive & Team Lead – CaratLane (March 2021 – June 2022)  
-✅ Led a team in invoice processing, improving billing accuracy by **20%** using automation tools.  
-
----
-
-### 🌟 Why Connect with Me?  
-✅ Strong **Data Structures & Algorithms (DSA)** skills (LeetCode, CodeChef, HackerRank)  
-✅ Hands-on experience in **AI-driven applications & cloud deployments**  
-✅ Passionate about **learning, adapting, and building impactful tech solutions**  
-
-🚀 **Actively Looking for:** Internships | Full-Time SDE | AI-Integrated Full-Stack Roles  
+🚀 **Actively Looking For:** Product Design Roles | UI/UX Fulltime Roles & Internships | Freelance Design Gigs
 
 ---
 
@@ -96,4 +90,7 @@
 
 ---
 
-🔥 **Thanks for visiting my profile!** If you like my work, feel free to **star ⭐ my repositories**! 🚀
+<p align="center">
+🔥 <b>Thanks for visiting!</b> If you like my designs, feel free to star ⭐ my repos, follow, or reach out!  
+Let’s build something beautiful together ✨
+</p>
