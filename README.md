@@ -1,96 +1,99 @@
-<h1 align="center">🎨 Hey there, I'm Vinod Hatti</h1>
-<h3 align="center">✨ Product Designer | UI/UX Specialist | AI-Driven Design Enthusiast</h3>
 
-<p align="center">
-  I'm a passionate <b>Product Designer</b> and <b>UI/UX Creator</b> from Bengaluru, India, currently pursuing final-year <b>Information Science & Engineering</b> at <b>MVJ College of Engineering</b> 🎓.  
-  I design modern, intuitive interfaces and love blending creativity with AI-powered workflows to build beautiful and functional digital experiences 💡.
-</p>
+# 🛡️ SOC L1 Cybersecurity Journey - 30 Day Challenge
+
+Welcome to my Cybersecurity learning journey! This repository documents my 30-day path to becoming job-ready as a **SOC L1 Analyst**, with hands-on labs, tools, and case studies using platforms like TryHackMe, Splunk, and Wireshark.
 
 ---
 
-### 🎨 What I Do  
-- 💻 **UI/UX Design:** Web & Mobile Interface Design, Wireframing, Prototyping  
-- ✨ **Product Thinking:** Design Systems, User Journeys, Accessibility  
-- ⚡ **Design Tools:** Figma, Framer, Illustrator, Photoshop, Pen & Paper  
-- 🤖 **AI in Design:** Prompt Engineering, Generative UI, AI-assisted workflows  
-- 📱 **Modern Web Aesthetics:** Landing Pages, SaaS Dashboards, Animations  
-- 🌐 **Design + Dev Handoff:** Working with dev teams, exporting design specs, micro-interactions
+## 📅 30-Day Plan Summary
+
+| Week | Topics | Tools/Labs |
+|------|--------|------------|
+| Week 1 | Cybersecurity Fundamentals & Networking | TryHackMe: Intro, Wireshark, VirtualBox |
+| Week 2 | SOC Concepts & SIEM Tools | Splunk, TryHackMe: SOC L1 Room |
+| Week 3 | Threat Intelligence & Case Studies | VirusTotal, MITRE ATT&CK |
+| Week 4 | Portfolio & Resume + Job Applications | Notion/Framer Resume, GitHub Projects |
 
 ---
 
-### 🧠 Learning & Building  
-- 🔥 **Mastering Framer, Figma Plugins, & AI Prompt Crafting**  
-- 🌟 **Designing for Developers** (BonniUi - Templates & UI Kits)  
-- 🚀 **Launching My Own Products**: BonniUi, Clyap, Hai  
-- 🎥 **Creating UI/UX Content in Kannada on YouTube**
+## 🧠 Skills Covered
+
+```yaml
+- Cybersecurity Basics
+- SOC (Security Operations Center)
+- Incident Response Lifecycle
+- Log Analysis & SIEM (Splunk, Elastic)
+- Network Security (Wireshark, TCP/IP)
+- Threat Intelligence (IOC, MITRE ATT&CK)
+- Phishing & Malware Detection
+```
 
 ---
 
-## 💼 Experience  
+## 🧪 Hands-on Labs
 
-### 💻 Product Designer – BonniUi (2025–Present)  
-🎯 Designing modern templates, SaaS UIs, and animation-rich components for developers  
-🎯 Building India's first AI-powered UI generation platform  
+### 🔹 TryHackMe
+- [x] Introduction to Cybersecurity
+- [x] Pre-Security Path
+- [x] SOC Level 1 Analyst Path
+- [x] Phishing Analysis Room
+- [x] Threat Intelligence Room
 
-### 🛫 UI/UX Designer – Clyap (2025–Present)  
-🛎️ Designed a complete event booking experience from wireframes to UI animations  
-🛎️ Created responsive mobile and web views with seamless transitions  
+### 🔹 Splunk (SIEM)
+- [x] Splunk Fundamentals 1 (Free)
+- [x] Log Monitoring Practice
+- [x] Detecting brute force login attempts
 
-### 🧠 UI/UX Workshop – MVJ College of Engineering  
-✅ Led design sprints & showcased modern design tools like Figma & Framer  
-✅ Conducted demo sessions on prototyping & component libraries  
-
----
-
-## 🔥 Featured Projects  
-
-### 🖼️ BonniUi – AI UI Generator  
-🎯 AI-powered platform to generate frontend templates, components & modern UI kits  
-🛠️ Figma + AI prompts + Framer animations  
-
-### 🧠 Clyap – Smart Event Booking App  
-🚀 UI/UX design of an Indian-first, fast and modern event vendor's booking platform  
-🎨 Designed with minimal flows, animations, and accessibility in mind  
-
-### 📱 Hai – Next-Gen Social Experience  
-💬 Social + Creative app mockups with focus on motion UI and real-time interaction design  
+### 🔹 Wireshark
+- [x] Packet Sniffing
+- [x] Analyzing TCP Handshake
+- [x] Suspicious DNS & IP Tracking
 
 ---
 
-### 🧰 Design Stack  
+## 📁 Case Studies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,html,css,tailwind,github,sketch" />
-</p>
+### 📝 Phishing Incident Investigation
+- Source: TryHackMe Phishing Room
+- Tools Used: VirusTotal, Wireshark, Splunk
+- Outcome: Identified malicious sender, traced IOCs
 
----
-
-### 💫 Why Work With Me?  
-✅ Clear product thinking + beautiful UI  
-✅ Strong understanding of dev workflows  
-✅ Passionate about user-centric design  
-✅ Always learning, creating, and shipping
-
-🚀 **Actively Looking For:** Product Design Roles | UI/UX Fulltime Roles & Internships | Freelance Design Gigs
+### 📝 Brute Force Detection (Splunk)
+- Detected failed login attempts
+- Visualized logs & created alerts
 
 ---
 
-### 🔗 Connect with Me  
-<p align="center">
-  <a href="https://github.com/VinodHatti7019">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/vinodhatti">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/vinodhatti/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+## 📚 Certifications
+
+- [x] Google Cybersecurity Certificate (In Progress)
+- [x] TryHackMe SOC Level 1 Path
+- [ ] CompTIA Security+ (Planning)
 
 ---
 
-<p align="center">
-🔥 <b>Thanks for visiting!</b> If you like my designs, feel free to star ⭐ my repos, follow, or reach out!  
-Let’s build something beautiful together ✨
-</p>
+## 🛠️ Tools Used
+
+```json
+{
+  "SIEM": ["Splunk", "Elastic"],
+  "Packet Analysis": ["Wireshark"],
+  "Intel": ["VirusTotal", "OTX", "Shodan"],
+  "Platforms": ["TryHackMe", "Hack The Box"],
+  "Others": ["MITRE ATT&CK", "Notion", "Canva"]
+}
+```
+
+---
+
+## 🎯 Goal
+
+> To become a **job-ready SOC L1 Analyst** with hands-on skills in real-world tools and contribute to the cybersecurity community.
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/yourname)
+- 📁 [Portfolio](https://yourportfolio.com)
+- 🎥 [YouTube (Web Tech Kannadiga)](https://youtube.com/@webtechkannadiga)
