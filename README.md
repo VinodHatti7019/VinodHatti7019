@@ -16,18 +16,20 @@
 ---
 
 ## 🧪 Currently Building
-- 🔧 BonnUi – AI-powered UI templates + components
-- ✨ Hey – Personalized productivity dashboard using Framer + AI
+- 🔧 BonnUi – AI-powered UI templates + components (Building With Lovable)
+- ✨ Hey – Personalized productivity dashboard using Framer + AI (Dream - It's Secreat)
+- 🚀 Food - 👋 Hello, This is an Online Food Delivery iOS/Android UI Kit with 50+ neatly designed screens and 10 Chef Screens.(Done)
+
 
 
 ---
 
 ## 🔗 Find Me Online
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 🖼️ [Behance](https://behance.net/yourprofile)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://fluffy-menu-562835.framer.app/)
+- 🖼️ [Behance](https://behance.net/vinodhatti)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinodhatti/)
 - 📹 [YouTube – Web Tech Kannadiga](https://youtube.com/@webtechkannadiga)
-- 📫 Reach me: yourmail@example.com 
+- 📫 Reach me: vinodisemvjce@gmail.com 
 
 ---
 
