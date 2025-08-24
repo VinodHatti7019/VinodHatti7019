@@ -1,49 +1,65 @@
-# 👋 Hey there! I'm Vinod Hatti — Product Designer & No-Code SaaS Builder
+# 🚀 Vinod Hatti – MERN Stack Developer | AI-Integrated Product Builder
 
-🚀 I'm a passionate Product Designer and No-Code SaaS Builder focused on turning ideas into real, user-first digital products with the help of AI, Figma, Framer, Webflow, and tools like Lovable, Relume, and Locofy.
+Hi there 👋  
+I’m **Vinod Hatti**, a final-year **Information Science Engineer** passionate about building **modern web applications** and **AI-powered products**.  
 
-🎓 I'm a 2025 graduate, currently building products like BonnUi and Hey to solve real-world problems with clean UI and fast MVP launches.
-
----
-
-## 🛠️ What I Do
-- 🎨 UI/UX Design – Figma, Framer, Webflow, Sketch, Uizard
-- ⚙️ Prototyping & Animation – Framer, Protopie, Principle
-- 🚀 No-Code Development – Typedream, Softr, Locofy, Bravo Studio
-- 🤖 AI Tools – ChatGPT, Lovable AI, Relume, Uizard, Magician
-- 🧠 UX Research – Wireframing, Journey Mapping, Heuristic Evaluation
+I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)** and combine it with **AI + No-Code tools** to design, build, and scale real-world applications quickly.  
 
 ---
 
-## 🧪 Currently Building
-- 🔧 BonnUi – AI-powered UI templates + components (Building With Lovable)
-- ✨ Hey – Personalized productivity dashboard using Framer + AI (Dream - It's Secreat)
-- 🚀 Food - 👋 Hello, This is an Online Food Delivery iOS/Android UI Kit with 50+ neatly designed screens and 10 Chef Screens.(Done)
-
-
-
----
-
-## 🔗 Find Me Online
-- 🌐 [Portfolio Website](https://fluffy-menu-562835.framer.app/)
-- 🖼️ [Behance](https://behance.net/vinodhatti)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinodhatti/)
-- 📹 [YouTube – Web Tech Kannadiga](https://youtube.com/@webtechkannadiga)
-- 📫 Reach me: vinodisemvjce@gmail.com 
+## 🔥 About Me  
+- 🌐 **MERN Stack Developer** – Building scalable full-stack web apps  
+- 🤖 **AI + SaaS Enthusiast** – Working on real-world AI-integrated projects:  
+  - **Pravasamate AI** – AI-powered travel & devotional companion  
+  - **Emage AI** – Creative AI-driven platform  
+- ⚡ **Pro in No-Code & AI Tools** – Lovable, Bolt.new, Replit, Zed IDE, GitHub Copilot  
+- 🛠️ **Founder of Tryliate** – A no-code built webapp for smarter workflows  
+- 🎯 **Currently beginning a new 1-month prep journey** to sharpen skills & become job-ready as a **Software Engineer / SDE**  
 
 ---
 
-## 💡 Fun Facts
-- I use Framer like it's a coding language.
-- I design first, then learn by shipping it live.
-- I’m obsessed with clean UI and playful UX.
-- I believe AI + Design is the future of indie building.
+## 🛠️ Tech Stack & Skills  
+
+**Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS, Framer Motion  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL (learning)  
+**Database:** MongoDB, MySQL (basic)  
+**DevOps:** Git, GitHub, GitHub Actions, Docker (learning), CI/CD basics  
+**AI/ML:** OpenAI API, Hugging Face models, AI integrations into MERN apps  
+**No-Code Tools:** Lovable, Bolt.new, Replit  
+**Other Tools:** Zed IDE, GitHub Copilot, Figma (UI/UX design), Framer  
 
 ---
 
-## 🚀 Let’s Collaborate
-Whether you're a startup looking for a designer, or a builder wanting to co-create something amazing using No-Code + AI + Design, I'm open to connect!
+## 🚀 Featured Projects  
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+### 🔹 [Tryliate](https://tryliate.com/)  
+- A fast **web app** built entirely with **Lovable (no-code)**  
+- Showcases how **no-code + AI tools** can build real-world apps  
+- Planned to scale as a **SaaS product with integrated AI features**  
+
+### 🔹 [Pravasamate AI](#) _(in-progress)_  
+- AI-powered travel & devotional companion  
+- Integrates **ML + MERN stack**  
+
+### 🔹 [Emage AI](#) _(in-progress)_  
+- Creative **AI content generation platform**  
+- Built with **MERN + AI APIs**  
 
 ---
+
+## 📌 Current Focus – August 2025  
+✔ Strengthening **MERN fundamentals**  
+✔ Integrating **AI into web apps**  
+✔ Building **job-ready portfolio projects**  
+✔ Preparing for **Software Engineer / SDE roles**  
+
+---
+
+## 🌍 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/vinodhatti/)  
+🐙 [GitHub](https://github.com/VinodHatti7019)  
+🎥 [YouTube – UI/UX & SaaS Projects](#)  
+
+---
+
+💡 _“I believe the future belongs to builders who combine code + AI + creativity. Every project is a step toward building that future.”_  
